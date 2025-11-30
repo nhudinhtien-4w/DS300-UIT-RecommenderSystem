@@ -1,0 +1,17 @@
+{
+    "hard_constraints": {
+        "cuisine_type": [
+            "korean"
+        ],
+        "dish_type": [],
+        "price_range": [],
+        "location": []
+    },
+    "soft_constraints": {
+        "atmosphere": [],
+        "others": []
+    },
+    "recommended_items": [],
+    "accepted_items": [],
+    "rejected_items": []
+}

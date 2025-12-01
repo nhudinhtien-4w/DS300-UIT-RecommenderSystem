@@ -10,3 +10,4 @@ lxml_html_clean
 selenium
 webdriver-manager
 google-generativeai
+dotenv 

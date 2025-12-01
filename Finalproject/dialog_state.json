@@ -1,13 +1,13 @@
 {
     "hard_constraints": {
         "type_of_food": [
-            "Món Tết"
+            "món chính"
         ],
-        "ingredients": [
-            "nem chua"
-        ],
+        "ingredients": [],
         "cook_time": [
-            "65 phút"
+            "nhanh",
+            "trung bình",
+            "lâu"
         ],
         "algeric": [
             "none"
@@ -15,24 +15,15 @@
     },
     "soft_constraints": {
         "num_of_people": [
-            "8-10 người"
+            "skip"
         ],
         "calories": [
-            "2500 kcal"
+            "skip"
         ]
     },
-    "recommended_items": [
-        "Cách muối dưa hành truyền thống",
-        "Cách làm mứt dừa truyền thống đơn giản",
-        "Canh măng ngày Tết cổ truyền Hà Nội",
-        "Cách làm gỏi cuốn thập cẩm phiên bản 'vét tủ lạnh'"
-    ],
+    "recommended_items": [],
     "accepted_items": [
         "Cách làm gỏi cuốn thập cẩm phiên bản 'vét tủ lạnh'"
     ],
-    "rejected_items": [
-        "Cách muối dưa hành truyền thống",
-        "Cách làm mứt dừa truyền thống đơn giản",
-        "Cách làm gỏi cuốn thập cẩm phiên bản 'vét tủ lạnh'"
-    ]
+    "rejected_items": []
 }

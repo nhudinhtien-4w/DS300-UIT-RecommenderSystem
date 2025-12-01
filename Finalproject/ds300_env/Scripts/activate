@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\PROJECT\DS300\ds300_env"
+VIRTUAL_ENV="D:\CODE\github\DS300-UIT-RecommenderSystem\Finalproject\ds300_env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
